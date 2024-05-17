@@ -18,4 +18,3 @@ Execute `npm run dev` within the root directory and open up `http://localhost:30
 ## Todos
 - [ ] Delete inline styles that were just assigned for demo purposes.
 - [ ] Remove CSS element selectors and replace them with classes.
-- [ ] Install image optimization packages.
